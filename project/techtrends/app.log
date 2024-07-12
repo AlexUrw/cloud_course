@@ -1,0 +1,5 @@
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://10.87.128.187:3111/ (Press CTRL+C to quit)
+INFO:werkzeug:10.87.128.187 - - [12/Jul/2024 11:33:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:10.87.128.187 - - [12/Jul/2024 11:33:41] "GET /static/css/main.css HTTP/1.1" 200 -
