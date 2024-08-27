@@ -13,5 +13,5 @@ spec:
       valueFiles:
       - values-prod.yaml
     path: helm
-    repoURL: https://github.com/AlexUrw/TechTrends
+    repoURL: https://github.com/AlexUrw/cloud_course
     targetRevision: HEAD
