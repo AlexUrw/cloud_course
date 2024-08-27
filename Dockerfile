@@ -13,7 +13,7 @@ RUN pip install -r requirements.txt
 RUN python init_db.py
 
 # application port
-EXPOSE 3113
+EXPOSE 3111
 
 #command
 CMD ["python", "app.py"]
